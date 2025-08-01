@@ -1,0 +1,1 @@
+Aquí se colocarán los scripts SQL o instrucciones para configurar la base de datos.

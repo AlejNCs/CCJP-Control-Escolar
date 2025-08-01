@@ -1,0 +1,1 @@
+Aquí puedes guardar el diagrama de arquitectura o documentación técnica del sistema.
